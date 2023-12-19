@@ -6,3 +6,6 @@ let h = 2
 function add(){
     return
 }
+function add(){
+    return
+}
